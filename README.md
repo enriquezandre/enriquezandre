@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquezandre&label=Profile%20views&color=0e75b6&style=flat" alt="enriquezandre" /> </p>
 
-- 🔭 I’m currently working on **CODE Interpreter**
+- 🔭 I’m currently working on **Thesis and Software Engineering Project**
 
 - 🌱 I’m currently learning **React**
 
